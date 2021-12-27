@@ -4,7 +4,7 @@
 
 You can play this game from your web browser, play [**here**](/runnin-o-cube/play).
 
-Interested in making a map for this game? Visit [this page](contribute.md).
+Interested in making a map for this game? Visit [this page](/runnin-o-cube/contribute).
 
 <br>
 
